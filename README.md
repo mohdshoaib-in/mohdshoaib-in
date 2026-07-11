@@ -10,8 +10,8 @@ State Management: Redux, Redux Toolkit, Context API, Zustand
 UI: Material UI, Tailwind CSS, Storybook, Web Components
 Testing: Vitest, Jest, React Testing Library
 Tools: Git, GitHub Actions, Vite, Node.js
-🌟 Featured Project
 
+🌟 Featured Project
 NovaChat – AI-powered chat application built with Next.js, React, MongoDB, JWT, and Groq AI.
 
 🌱 Currently
