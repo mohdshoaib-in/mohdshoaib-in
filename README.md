@@ -1,28 +1,27 @@
-# Hey there! I'm Shoaib 👋
-
-> Building beautiful interfaces, scalable systems, and solving real-world problems.
+# 👋 Hi, I'm Shoaib
 
 🚀 Senior Frontend Engineer  
-🐍 Python Full-Stack Developer  
-☁️ Cloud & AI Enthusiast
+🐍 Python Full-Stack Enthusiast  
+⚡ Building modern web experiences
 
----
+I craft scalable applications using:
 
-## 🧑‍💻 About
+⚛️ React | Next.js | TypeScript  
+🐍 Python | FastAPI | Django  
+☁️ Cloud | Docker | CI/CD  
 
-I love turning ideas into reliable software.
+Currently exploring:
+- AI-powered applications 🤖
+- System design 🏗️
+- Cloud-native development ☁️
 
-My journey revolves around:
-- Creating exceptional user experiences
-- Designing scalable frontend architectures
-- Building robust backend systems
-- Exploring AI and automation
+I enjoy:
+- Building products
+- Open source
+- Sharing knowledge
+- Solving challenging problems
 
-I believe great software combines:
-**Performance + Simplicity + Great UX**
+📫 Connect with me:
+[LinkedIn] | [Portfolio] | [Twitter]
 
----
-
-## ⚡ My Toolbox
-
-Frontend:
+⭐ Keep coding. Keep creating.
