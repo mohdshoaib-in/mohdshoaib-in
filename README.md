@@ -1,27 +1,31 @@
-# 👋 Hi, I'm Shoaib
+Hi, I'm Shoaib 👋
+Senior Full Stack Software Engineer
 
-🚀 Senior Frontend Engineer  
-🐍 Python Full-Stack Enthusiast  
-⚡ Building modern web experiences
+8.8 years of experience building scalable, high-performance web applications.
 
-I craft scalable applications using:
+💻 Frontend: React, Next.js, TypeScript, JavaScript
+⚙️ Backend: Node.js, Express.js, REST APIs
+🎨 UI: Tailwind, Material UI, Storybook
+📊 Data: Highcharts, Chart.js
+🧪 Testing: Jest, Vitest, React Testing Library
+☁️ DevOps: Docker, GitHub Actions, CI/CD
+🤖 AI: LLM Integration & AI-assisted development
 
-⚛️ React | Next.js | TypeScript  
-🐍 Python | FastAPI | Django  
-☁️ Cloud | Docker | CI/CD  
+🚀 What I Build
+Scalable enterprise applications
+Analytics & data visualization platforms
+Reusable component libraries
+Real-time applications
+High-performance & accessible UIs
+💼 Experience
 
-Currently exploring:
-- AI-powered applications 🤖
-- System design 🏗️
-- Cloud-native development ☁️
+Omnicom Media Group — Software Engineer
+QSS Technosoft — Sr. Software Engineer
+Laitkor Consultancy — Software Engineer
+Spinsci Technology — Software Engineer
 
-I enjoy:
-- Building products
-- Open source
-- Sharing knowledge
-- Solving challenging problems
+🎯 Philosophy
 
-📫 Connect with me:
-[LinkedIn] | [Portfolio] | [Twitter]
+Build it clean. Make it scalable. Keep it maintainable.
 
-⭐ Keep coding. Keep creating.
+📫 Open to opportunities and collaborations in React, TypeScript, Node.js & Next.js.
