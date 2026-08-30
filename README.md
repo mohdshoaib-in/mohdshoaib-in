@@ -17,12 +17,6 @@ Analytics & data visualization platforms
 Reusable component libraries
 Real-time applications
 High-performance & accessible UIs
-💼 Experience
-
-Omnicom Media Group — Software Engineer
-QSS Technosoft — Sr. Software Engineer
-Laitkor Consultancy — Software Engineer
-Spinsci Technology — Software Engineer
 
 🎯 Philosophy
 
