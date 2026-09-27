@@ -1,25 +1,24 @@
 Hi, I'm Shoaib 👋
 Senior Full Stack Software Engineer
 
-8.8 years of experience building scalable, high-performance web applications.
-
-💻 Frontend: React, Next.js, TypeScript, JavaScript
-⚙️ Backend: Node.js, Express.js, REST APIs
-🎨 UI: Tailwind, Material UI, Storybook
-📊 Data: Highcharts, Chart.js
-🧪 Testing: Jest, Vitest, React Testing Library
-☁️ DevOps: Docker, GitHub Actions, CI/CD
-🤖 AI: LLM Integration & AI-assisted development
+💻 Frontend: React.js, JavaScript, TypeScript
+⚙️ Backend: Core Java, Spring Boot, REST APIs
+🗄️ Database: MySQL, PostgreSQL
+🧪 Testing: JUnit, Mockito
+☁️ DevOps: Docker, Git, CI/CD
 
 🚀 What I Build
+
 Scalable enterprise applications
-Analytics & data visualization platforms
-Reusable component libraries
-Real-time applications
-High-performance & accessible UIs
+
+RESTful backend services
+
+Modern React applications
+
+High-performance & maintainable solutions
 
 🎯 Philosophy
 
 Build it clean. Make it scalable. Keep it maintainable.
 
-📫 Open to opportunities and collaborations in React, TypeScript, Node.js & Next.js.
+📫 Open to opportunities and collaborations in Java, Spring Boot & React.js.
