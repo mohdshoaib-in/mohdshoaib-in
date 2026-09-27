@@ -1,5 +1,5 @@
 Hi, I'm Shoaib 👋
-Senior Full Stack Software Engineer
+Full Stack Software Engineer
 
 💻 Frontend: React.js, JavaScript, TypeScript
 ⚙️ Backend: Core Java, Spring Boot, REST APIs
