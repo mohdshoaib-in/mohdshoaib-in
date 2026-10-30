@@ -2,9 +2,9 @@ Hi, I'm Shoaib 👋
 Full Stack Software Engineer
 
 💻 Frontend: React.js, JavaScript, TypeScript
-⚙️ Backend: Core Java, Spring Boot, REST APIs
-🗄️ Database: MySQL, PostgreSQL
-🧪 Testing: JUnit, Mockito
+⚙️ Backend: Python, Fast API
+🗄️ Database: PostgreSQL
+🧪 Testing:Jest
 ☁️ DevOps: Docker, Git, CI/CD
 
 🚀 What I Build
@@ -21,4 +21,4 @@ High-performance & maintainable solutions
 
 Build it clean. Make it scalable. Keep it maintainable.
 
-📫 Open to opportunities and collaborations in Java, Spring Boot & React.js.
+📫 Open to opportunities and collaborations in Python, Fast API & React.js.
