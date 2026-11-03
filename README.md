@@ -2,7 +2,7 @@ Hi, I'm Shoaib 👋
 Full Stack Software Engineer
 
 💻 Frontend: React.js, JavaScript, TypeScript
-⚙️ Backend: Python, Fast API
+⚙️ Backend: Node.js, Express.js
 🗄️ Database: PostgreSQL
 🧪 Testing:Jest
 ☁️ DevOps: Docker, Git, CI/CD
