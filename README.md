@@ -21,4 +21,4 @@ High-performance & maintainable solutions
 
 Build it clean. Make it scalable. Keep it maintainable.
 
-📫 Open to opportunities and collaborations in Python, Fast API & React.js.
+📫 Open to opportunities and collaborations in Node.js, Express.js & React.js.
